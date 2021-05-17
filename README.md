@@ -13,15 +13,15 @@ In the month of June, we find that Oahu’s has an average weather of 74.94, low 6
 - The low of 64 degrees can be a bit worry some. It seems this is not true beach weather, and the low can scare a few surfers away. 
 - The high of 85 can be good for business. But with the low being 64 and our lack of understanding of wind factors. June is not giving us significant trust that this is a good venture.
 
-![summary_statistic_june]
+![summary_statistic_june]( https://github.com/cynmmarin/Surfs_up/blob/9393528188ca034af1fb90884e1898ddf0369b95/Resources/summary_statistics_june.png)
 
 ### Statistics for December
 In the month of December, we find that Oahu’s has an average weather of 71.04, low 56 and high 83 degrees. The following conclusions can be made:
 - The average temperature of ~71 degrees, is slightly below that of June. This may indicate that this island may have a steady weather throughout the year. However, we would need to analyze more months to know if this assumption is true.
 - The low of 56, is troubling given that it’s over 10 degrees colder than in June and are not conducive temperatures for surfing.
-- The high of 83, is just slightly lower than that of June. However, a temperature of 83 is not enough to  have a surf shop succeed if we are unaware of the impact of wind trends.
+- The high of 83, is just slightly lower than that of June. However, a temperature of 83 is not enough to have a surf shop succeed if we are unaware of the impact of wind trends.
 
-![summary_statistic_december]
+![summary_statistic_december](https://github.com/cynmmarin/Surfs_up/blob/9393528188ca034af1fb90884e1898ddf0369b95/Resources/summary_statistic_december.png)
 
 ### Summary
 The analysis as it stands does not contain enough data to properly determine if a Surf Shop would thrive. Limiting the evaluation to only the month of June and December leaves a lot of unknowns. Such as, are these the warmest months of the year? Are they the coldest? What happens between those months? If we are hoping to open a Surf Shop, temperature in not the only factor to keep in mind, we want to examine the data for wind factors too. This also depends on if we want the shop to be open year-round or only a few months out of the year.
